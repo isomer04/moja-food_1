@@ -1,5 +1,5 @@
 {
-  "name": "moja food",
+  "name": "moja-food",
   "version": "1.0.0",
   "description": "Moja food recipe",
   "main": "server.js",
